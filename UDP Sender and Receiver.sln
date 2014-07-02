@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDPReciver", "UDPReciver\UDPReciver.vcxproj", "{4F9E94ED-C574-437E-A721-0D135CA43AAA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDPSender", "UDPSender\UDPSender.vcxproj", "{8129A25A-2506-41FB-8554-BA8570038ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F9E94ED-C574-437E-A721-0D135CA43AAA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F9E94ED-C574-437E-A721-0D135CA43AAA}.Debug|Win32.Build.0 = Debug|Win32
+		{4F9E94ED-C574-437E-A721-0D135CA43AAA}.Release|Win32.ActiveCfg = Release|Win32
+		{4F9E94ED-C574-437E-A721-0D135CA43AAA}.Release|Win32.Build.0 = Release|Win32
+		{8129A25A-2506-41FB-8554-BA8570038ABF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8129A25A-2506-41FB-8554-BA8570038ABF}.Debug|Win32.Build.0 = Debug|Win32
+		{8129A25A-2506-41FB-8554-BA8570038ABF}.Release|Win32.ActiveCfg = Release|Win32
+		{8129A25A-2506-41FB-8554-BA8570038ABF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
